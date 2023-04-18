@@ -1,0 +1,33 @@
+
+body {
+    margin: 1em;
+    background-color: antiquewhite;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 12px;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.container2 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.box {
+    width: 25vh;
+    height: 25vh;
+    background-color: #00ff627c;
+    margin-right: 10px;
+    text-align: center;
+    align-items: center;
+    border: solid 1px;
+    justify-content: center;
+    display: flex;
+    box-shadow: 2px 2px 4px red;
+}
