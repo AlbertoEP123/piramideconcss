@@ -26,8 +26,26 @@ body {
     margin-right: 10px;
     text-align: center;
     align-items: center;
-    border: solid 1px;
     justify-content: center;
     display: flex;
-    box-shadow: 2px 2px 4px red;
+}
+
+#c1{
+    background-color: goldenrod;
+   
+}
+#c2{
+    background-color: pink;
+}
+#c3{
+    background-color: rgb(16, 17, 124);
+   
+}
+#c4{
+    background-color: orange;
+   
+}
+#c5{
+    background-color: magenta;
+   
 }

@@ -1,5 +1,7 @@
 'use strict';
 //nos ayuda a no dejar pasar ningun error
+//Definir variables globales
+
 
 var cuadro = parseInt(prompt("Diga en que cuadro quiere saludar", ""));
 
